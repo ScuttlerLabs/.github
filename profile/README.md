@@ -33,7 +33,7 @@ We take a different approach:
 
 ## Products
 
-### ScuttlerLabs LoL · [lol.scuttlerlabs.com](https://lol.scuttlerlabs.com)
+### ScuttlerLabs LoL · [lol.scuttlerlabs.com](https://lol.scuttlerlabs.com/en)
 
 Professional League of Legends analysis across **LCK, LPL, LEC, LCS, and CBLOL**.
 
@@ -44,7 +44,7 @@ Professional League of Legends analysis across **LCK, LPL, LEC, LCS, and CBLOL**
 - **Roster and scouting**: off-season planning, player comparison, and prospect evaluation for front offices and agencies
 - **Team workspace**: a private space for your staff's opponent prep and scrim review
 
-### ScuttlerLabs FC Online · [fconline.scuttlerlabs.com](https://fconline.scuttlerlabs.com)
+### ScuttlerLabs FC Online · [fconline.scuttlerlabs.com](https://fconline.scuttlerlabs.com/en)
 
 Professional FC Online analysis for competitions such as **FSL, FTB, and FFL**.
 
@@ -70,7 +70,7 @@ Our products are available exclusively to contracted organizations, and every su
 
 Beyond the standard products, we design custom observations and metrics together with you, including the video reading rules and the formulas behind them. We also help with data cleanup, report automation, and analysis pipelines within the games we cover.
 
-We work with teams in every region. Get in touch at **[contact@scuttlerlabs.com](mailto:contact@scuttlerlabs.com)** or visit **[scuttlerlabs.com](https://scuttlerlabs.com)**.
+We work with teams in every region. Get in touch at **[contact@scuttlerlabs.com](mailto:contact@scuttlerlabs.com)** or visit **[scuttlerlabs.com](https://scuttlerlabs.com/en)**.
 
 ---
 
