@@ -74,6 +74,6 @@ We work with teams in every region. Get in touch at **[contact@scuttlerlabs.com]
 
 ---
 
-<sub>ScuttlerLabs is a brand operated by Studio LIQ, based in South Korea.<br>
+<sub>ScuttlerLabs is a brand operated by StudioLIQ, based in South Korea.<br>
 ScuttlerLabs isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated properties are trademarks or registered trademarks of Riot Games, Inc.<br>
 FC Online data is based on NEXON Open API.</sub>
